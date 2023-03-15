@@ -1,6 +1,8 @@
 # sqlhyperskill
 SQL-hyperskill
 
+Video Game Database project from SQL Funadamentals track on Hyperskill.
+
 ====STAGE 1====
 
 Analyze the tables, identify the elective columns to become primary keys, and find the relationships between different tables. Then, make the necessary statements to create tables with columns and data types to receive the data and primary and foreign keys on the appropriate columns.
